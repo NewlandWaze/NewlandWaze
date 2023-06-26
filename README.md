@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NewlandWaze
-- 👀 I’m interested in backend programming
-- 🌱 I’m currently learning linux programming,
+- 👀 I’m a Full stack developer
+- 🌱 
 - 💞️ I’m looking to collaborate on all friendly working environments...
 
 <!---
